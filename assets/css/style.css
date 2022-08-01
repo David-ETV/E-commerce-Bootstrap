@@ -1,0 +1,12 @@
+.title{
+    color: rgb(42, 65, 102) !important;
+    text-shadow: 0 0 5px rgba(40, 88, 171, 0.967);
+}
+.l{
+color: red;
+text-shadow: 0 0 5px rgb(255, 0, 0);
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  background-color: rgb(67, 63, 63);
+}
